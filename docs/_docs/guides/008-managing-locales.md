@@ -29,7 +29,7 @@ You can configure the locales to be partially translated.  English in United Kin
 mojito repo-update -n MyRepo -l "(en-GB)" es-ES fr-FR ja-JP zh-CN zh-TW
 ```
 
-The above example adds English in United Kingdome (en-GB) to `MyRepo` repository.  Having parenthesis around the locale excludes the locale from being fully translated.
+The above example adds English in United Kingdom (en-GB) to `MyRepo` repository.  Having parenthesis around the locale excludes the locale from being fully translated.
 
 
 
